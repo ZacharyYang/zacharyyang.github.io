@@ -9,11 +9,11 @@ safe: true
 #paginate_path: "page:num"
 
 # presonal config
-url: http://blog.ilinux.tech
-domain: http://blog.ilinux.tech
+url: https://zacharyyang.github.io
+domain: https://zacharyyang.github.io
 title: iLinux
 author: Zachary
-email: zachary_yzh@163.com
+email: zacharyang@163.com
 github: zachary
 
 config:
