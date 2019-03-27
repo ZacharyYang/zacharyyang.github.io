@@ -1,0 +1,22 @@
+permalink: /:year/:month/:title.html
+highlights: pygments
+highlight: true
+markdown: kramdown
+highlighter: rouge
+
+safe: true
+#paginate: 8
+#paginate_path: "page:num"
+
+# presonal config
+url: http://blog.ilinux.tech
+domain: http://blog.ilinux.tech
+title: iLinux
+author: Zachary
+email: zachary_yzh@163.com
+github: zachary
+
+config:
+  js_dir:
+  img_dir:
+  css_dir:
